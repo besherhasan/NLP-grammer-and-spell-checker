@@ -17,4 +17,4 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/besherhasan/NLP-grammar-and-spell-checker.git
-![NLP grammer](./images/NLP grammer.png)
+![NLP grammer](NLP-grammer-and-spell-checker/NLP grammer.png)
