@@ -1,6 +1,6 @@
 # NLP Grammar and Spell Checker
 
-Welcome to the NLP Grammar and Spell Checker project! This web application, built with Flask, Python, and NLP techniques, helps you identify and correct grammar and spelling errors in your text. Whether you're a developer looking to integrate NLP into your applications or a user seeking accurate text analysis, this project has you covered.
+Welcome to the NLP Grammar and Spell Checker project! This web application, built with Flask, Python, HTML, CSS and NLP techniques, helps you identify and correct grammar and spelling errors in your text. Whether you're a developer looking to integrate NLP into your applications or a user seeking accurate text analysis, this project has you covered.
 
 ## Features
 
